@@ -17,7 +17,6 @@ $ pkg install fish
 $ pkg install git 
 $ pip2 install requests 
 $ pip2 install mechanize 
-
 $ git clone https://github.com/Pr0gramm3rID/Cod3sX666X
 $ cd Cod3sX666X
 $ ls
@@ -27,6 +26,7 @@ $ sh v25.sh
 You Will Be Directed To Enter The Login And License Data. 
 Good Luck :)
 ```
+
 
 
 My Social Media
